@@ -1,1 +1,0 @@
-import{k as r,b as t,c,a3 as n}from"./entry.T34KPFDB.js";const o={};function s(e,a){return t(),c("em",null,[n(e.$slots,"default",{},void 0,!0)])}const l=r(o,[["render",s],["__scopeId","data-v-80c3edee"]]);export{l as default};
